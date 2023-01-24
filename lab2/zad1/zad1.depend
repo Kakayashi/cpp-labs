@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1666127393 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad1\circle.cpp
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+
+1666127303 c:\users\kaka\desktop\c++\semestr5\lab2\zad1\figure.h
+
+1666127269 c:\users\kaka\desktop\c++\semestr5\lab2\zad1\circle.h
+
+1666127446 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad1\figure.cpp
+	<iostream>
+	"Figure.h"
+
+1666127359 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad1\square.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+
+1666127191 c:\users\kaka\desktop\c++\semestr5\lab2\zad1\square.h
+	"Figure.h"
+

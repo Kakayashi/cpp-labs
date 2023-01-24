@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668977243 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab6\main.cpp
+	<boost/multi_index_container.hpp>
+	<boost/multi_index/hashed_index.hpp>
+	<boost/multi_index/member.hpp>
+	<iostream>
+	"Person.h"
+
+1668977252 c:\users\kaka\desktop\c++\semestr5\lab3\lab6\person.h
+

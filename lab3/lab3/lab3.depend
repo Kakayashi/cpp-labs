@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666639210 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab3\main.cpp
+	<iostream>
+	"Adding.h"
+	"Student.h"
+
+1666638764 c:\users\kaka\desktop\c++\semestr5\lab3\lab3\adding.h
+
+1666639226 c:\users\kaka\desktop\c++\semestr5\lab3\lab3\student.h
+

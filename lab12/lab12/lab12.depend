@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671541665 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab12\lab12\main.cpp
+	<iostream>
+	<iostream>
+	<vector>
+	<algorithm>
+

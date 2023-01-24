@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673979338 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab11\main.cpp
+	<iostream>
+	"Warehouse.h"
+	"Shop.h"
+	<vector>
+	<memory>
+
+1673979338 c:\users\kaka\desktop\c++\semestr5\lab3\lab11\warehouse.h
+	<iostream>
+	<vector>
+	<memory>
+
+1673979301 c:\users\kaka\desktop\c++\semestr5\lab3\lab11\shop.h
+	<iostream>
+	<vector>
+	<memory>
+	"Warehouse.h"
+

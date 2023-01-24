@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    //komentarz1
+    cout << "Hello world!" << endl;//komentarz2
+    return 0;
+}
+//komentarz3

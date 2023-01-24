@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1666121039 source:c:\users\kaka\desktop\c++\semestr5\lab1\zad1\main.cpp
+	<iostream>
+	"Animal.h"
+	"Dog.h"
+
+1666093786 source:c:\users\kaka\desktop\c++\semestr5\lab1\zad1\animal.cpp
+	<iostream>
+	"Animal.h"
+
+1666093704 c:\users\kaka\desktop\c++\semestr5\lab1\zad1\animal.h
+	<iostream>
+	<string>
+
+1666120060 source:c:\users\kaka\desktop\c++\semestr5\lab1\zad1\dog.cpp
+	"Dog.h"
+
+1666120265 c:\users\kaka\desktop\c++\semestr5\lab1\zad1\dog.h
+	"Animal.h"
+

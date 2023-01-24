@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673428449 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab10\main.cpp
+	<iostream>
+	<regex>
+	<fstream>
+

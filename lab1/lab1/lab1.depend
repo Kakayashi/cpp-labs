@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1666031119 source:c:\users\kaka\desktop\c++\semestr5\lab1\lab1\teacher.cpp
+	<iostream>
+	"Teacher.h"
+
+1666031021 c:\users\kaka\desktop\c++\semestr5\lab1\lab1\teacher.h
+	"Person.h"
+
+1666031601 c:\users\kaka\desktop\c++\semestr5\lab1\lab1\person.h
+	<iostream>
+
+1666034545 source:c:\users\kaka\desktop\c++\semestr5\lab1\lab1\main.cpp
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Student.h"
+
+1666031888 source:c:\users\kaka\desktop\c++\semestr5\lab1\lab1\person.cpp
+	<iostream>
+	"Person.h"
+
+1666034164 c:\users\kaka\desktop\c++\semestr5\lab1\lab1\student.h
+	"Person.h"
+
+1666034165 source:c:\users\kaka\desktop\c++\semestr5\lab1\lab1\student.cpp
+	<iostream>
+	"Student.h"
+

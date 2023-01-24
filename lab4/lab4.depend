@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1667825788 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<list>
+	"Citizen.h"
+	"City.h"
+	<algorithm>
+
+1667764591 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab4\citizen.cpp
+	<iostream>
+	"Citizen.h"
+
+1667764110 c:\users\kaka\desktop\c++\semestr5\lab3\lab4\citizen.h
+	<iostream>
+
+1667824884 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab4\city.cpp
+	"Citizen.h"
+	"City.h"
+	<iostream>
+	<vector>
+	<list>
+	<algorithm>
+	"PostalCode.h"
+
+1667824547 c:\users\kaka\desktop\c++\semestr5\lab3\lab4\city.h
+	"Citizen.h"
+	<iostream>
+	<vector>
+
+1667823599 source:c:\users\kaka\desktop\c++\semestr5\lab3\lab4\postalcode.cpp
+	<iostream>
+	"PostalCode.h"
+
+1667823559 c:\users\kaka\desktop\c++\semestr5\lab3\lab4\postalcode.h
+	<iostream>
+

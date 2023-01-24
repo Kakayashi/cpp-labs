@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad2\main.cpp
+	<iostream>
+
+1666165159 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad2\develpoer.cpp
+	<iostream>
+	"Developer.h"
+
+1666165011 c:\users\kaka\desktop\c++\semestr5\lab2\zad2\developer.h
+	"Employee.h"
+	<iostream>
+
+1666165606 c:\users\kaka\desktop\c++\semestr5\lab2\zad2\employee.h
+	<iostream>
+
+1666165462 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad2\teamleader.cpp
+	<iostream>
+	"TeamLeader.h"
+
+1666165588 c:\users\kaka\desktop\c++\semestr5\lab2\zad2\teamleader.h
+	"Employee.h"
+	<iostream>
+
+1666165530 source:c:\users\kaka\desktop\c++\semestr5\lab2\zad2\employee.cpp
+	<iostream>
+	"Employee.h"
+

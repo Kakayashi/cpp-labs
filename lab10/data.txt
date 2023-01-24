@@ -1,0 +1,2 @@
+Adam;Adamowski;12;123123123;asda@asd.pl
+Piotr;Piotrowski;12;123123123;sad@asd.pl
